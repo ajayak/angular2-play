@@ -1,6 +1,10 @@
 {
   "name": "angular2-play",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "author": {
+    "name": "Ajay Kumar",
+    "email": "ajayak731@hotmail.com"
+  },
   "license": "MIT",
   "angular-cli": {},
   "scripts": {
